@@ -1,0 +1,47 @@
+[
+    {
+        "id": "1",
+        "imdb": "tt1745960",
+        "title": "Top Gun: Maverick",
+        "director": {
+            "firstname": "Joseph",
+            "lastname": "Kosinski"
+        }
+    },
+    {
+        "id": "2",
+        "imdb": "tt0903747",
+        "title": "Breaking Bad",
+        "director": {
+            "firstname": "Vince",
+            "lastname": "Gilligan"
+        }
+    },
+    {
+        "id": "3",
+        "imdb": "tt12593682",
+        "title": "Bullet Train",
+        "director": {
+            "firstname": "David",
+            "lastname": "Leitch"
+        }
+    },
+    {
+        "id": "4",
+        "imdb": "tt9419884",
+        "title": "Doctor Strange in the Multiverse of Madness",
+        "director": {
+            "firstname": "Sam",
+            "lastname": "Raimi"
+        }
+    },
+    {
+        "id": "5",
+        "imdb": "tt10872600",
+        "title": "Spider-Man: No Way Home",
+        "director": {
+            "firstname": "Jon",
+            "lastname": "Watts"
+        }
+    }
+]
